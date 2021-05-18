@@ -6,6 +6,7 @@ elephant
 frog
 gaint
 hello
-bye
-jljka
-d
+lion
+tiger
+nest
+dog
