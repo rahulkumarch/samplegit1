@@ -6,3 +6,7 @@ elephant
 frog
 gaint
 hello
+lion
+tiger
+nest
+dog
